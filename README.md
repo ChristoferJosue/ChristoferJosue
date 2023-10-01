@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Christofer González</h1>
-<h3 align="center">Soy un Estudiante de Ing. Sistemas en Panamá</h3>
+<h1 align="center">Hola 👋, Soy Christofer González</h1>
+<h3 align="center">Soy un Estudiante de Ing. Sistemas en Universidad Tecnologica de Panamá</h3>
 
 - 💬 Ask me about **C, Python, Java, Android**
 
