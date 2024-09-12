@@ -2,7 +2,7 @@
 <h3 align="center">Soy un Estudiante de Ingeniería en Sistemas en la Universidad Tecnológica de Panamá</h3>
 
 <p align="center">
-  <a href="https://github.com/ChristoferJosue/github-readme-stats">
+  <a href="https://github.com/ChristoferJosue/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de ChristoferJosue">
   </a>
 </p>
@@ -39,9 +39,6 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
