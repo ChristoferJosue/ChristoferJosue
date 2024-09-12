@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ChristoferJosue/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=transparent&locale=es" alt="Estadísticas de GitHub de ChristoferJosue">
+    ![ChristoferJosue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=radical&locale=es)
   </a>
 </p>
 
