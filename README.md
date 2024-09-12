@@ -6,7 +6,7 @@
 - 📫 Como contactarme **Christofer.cg8@gmail.com**
 
 
-<p align="left">
+<p align="center">
 
 [![ChristoferJosue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=transparent&locale=es)]
 
