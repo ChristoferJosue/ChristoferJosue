@@ -7,6 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+[![ChristoferJosue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristoferJosue)](https://github.com/ChristoferJosue/github-readme-stats)
+
+
+
+  
 <a href="https://linkedin.com/in/christofer-gonzález-72901a272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christofer-gonzález-72901a272" height="30" width="40" /></a>
 </p>
 
