@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Christofer González</h1>
 <h3 align="center">Soy un Estudiante de Ing. Sistemas en Universidad Tecnologica de Panamá</h3>
 
-- 💬 Ask me about **C, Python, Java, Android**
+- 💬 Preguntame de  **C, Python, Java, Android**
 
-- 📫 How to reach me **Christofer.cg8@gmail.com**
+- 📫 Como contactarme **Christofer.cg8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
