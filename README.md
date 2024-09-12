@@ -2,7 +2,7 @@
 <h3 align="center">Soy un Estudiante de Ingeniería en Sistemas en la Universidad Tecnológica de Panamá</h3>
 
 <p align="center">
-  <a href="https://github.com/ChristoferJosue/github-readme-stats" target="_blank">
+  <a>
     <img src="https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de ChristoferJosue">
   </a>
 </p>
