@@ -4,9 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/ChristoferJosue/github-readme-stats">
     ![ChristoferJosue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=radical&locale=es)
-  </a>
 </p>
 
 - 💬 Pregúntame sobre **C, Python, Java, Android**
