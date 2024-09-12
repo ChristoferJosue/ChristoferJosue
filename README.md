@@ -8,7 +8,7 @@
 
 <p align="left">
 
-[![ChristoferJosue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=transparent&locale=es)](https://github.com/ChristoferJosue/github-readme-stats)
+[![ChristoferJosue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=transparent&locale=es)]
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/christoferJosue/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christofer-gonzález-72901a272" height="30" width="40" /></a>
