@@ -18,10 +18,12 @@
 - 💬 Pregúntame sobre **C, Python, Java, Android**
 - 📫 Contáctame a **Christofer.cg8@gmail.com**
 
-<h3 align="center">Conéctate conmigo:</h3>
-<p align="center">
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/christoferJosue/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <a href="https://christofer.cg8@gmail.com" target="_blank">
+    <img src="" alt="Gmail" height="30" width="40" />
     
     
   </a>
