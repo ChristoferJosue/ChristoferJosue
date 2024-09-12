@@ -5,7 +5,9 @@
 - 📫 Contáctame a **Christofer.cg8@gmail.com**
 
 <p align="center">
-  [![Estadísticas de GitHub de ChristoferJosue](https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=transparent&locale=es)](https://github.com/ChristoferJosue/github-readme-stats)
+  <a href="https://github.com/ChristoferJosue/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=transparent&locale=es" alt="Estadísticas de GitHub de ChristoferJosue">
+  </a>
 </p>
 
 <h3 align="center">Conéctate conmigo:</h3>
