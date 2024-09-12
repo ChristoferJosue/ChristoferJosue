@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![ChristoferJosue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristoferJosue)](https://github.com/ChristoferJosue/github-readme-stats)
+[![ChristoferJosue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristoferJosue)](https://github.com/ChristoferJosue/github-readme-stats&show_icons=true)
 
 
 
