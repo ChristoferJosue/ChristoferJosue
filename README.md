@@ -6,6 +6,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de ChristoferJosue">
   </a>
 </p>
+<p align="center">
+  <a href="
+        https://github.com/ChristoferJosue"
+        align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoferJosue&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+        alt="Top Languages" />
+        
+  </a>
+</p>
 
 - 💬 Pregúntame sobre **C, Python, Java, Android**
 - 📫 Contáctame a **Christofer.cg8@gmail.com**
@@ -14,8 +22,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/christoferJosue/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    
+    
   </a>
+
 </p>
+
+
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
