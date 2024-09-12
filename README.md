@@ -1,14 +1,16 @@
 <h1 align="center">Hola 👋, Soy Christofer González</h1>
 <h3 align="center">Soy un Estudiante de Ingeniería en Sistemas en la Universidad Tecnológica de Panamá</h3>
 
-- 💬 Pregúntame sobre **C, Python, Java, Android**
-- 📫 Contáctame a **Christofer.cg8@gmail.com**
+
 
 <p align="center">
   <a href="https://github.com/ChristoferJosue/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=transparent&locale=es" alt="Estadísticas de GitHub de ChristoferJosue">
   </a>
 </p>
+
+- 💬 Pregúntame sobre **C, Python, Java, Android**
+- 📫 Contáctame a **Christofer.cg8@gmail.com**
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
