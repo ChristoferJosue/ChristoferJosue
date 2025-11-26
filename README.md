@@ -1,19 +1,7 @@
 <h1 align="center">Hola 👋, Soy Christofer González</h1>
 <h3 align="center">Soy un Desarollador en Banco General  y  Estudiante de Ingeniería en Sistemas en la Universidad Tecnológica de Panamá</h3>
 
-<p align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ChristoferJosue&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de ChristoferJosue">
-  </a>
-</p>
-<p align="center">
-  <a href="
-        https://github.com/ChristoferJosue"
-        align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoferJosue&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Lenguajes"
-        alt="Top lenguajes" />
-        
-  </a>
-</p>
+
 
 - 💬 Pregúntame sobre **C, Python, Java, Android**
 - 📫 Contáctame a **Christofer.cg8@gmail.com**
