@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Christofer González</h1>
-<h3 align="center">Soy un Desarollador en Banco General  y  Estudiante de Ingeniería en Sistemas en la Universidad Tecnológica de Panamá</h3>
+<h3 align="center">Soy un Ingeniero en Sistemas y Desarrollador de Software</h3>
 
 
 
